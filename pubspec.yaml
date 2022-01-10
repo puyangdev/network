@@ -1,8 +1,9 @@
 name: net_demo_yu
 description: A new Flutter project.
 version: 0.0.1
-homepage:
 repository: https://github.com/puyangdev/network.git
+homepage: https://github.com/puyangdev/network
+authors: yupuyang
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
