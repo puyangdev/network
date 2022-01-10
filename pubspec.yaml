@@ -3,7 +3,7 @@ description: A new Flutter project.
 version: 0.0.1
 repository: https://github.com/puyangdev/network.git
 homepage: https://github.com/puyangdev/network
-authors: yupuyang
+author: yupuyang
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
